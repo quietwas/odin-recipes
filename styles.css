@@ -13,3 +13,12 @@
     list-style-type: none;
     font-weight: bold;
 }
+
+.description {
+    text-indent: 1em;
+    width: 550px;
+}
+
+.steps {
+    width: 600px;
+}
